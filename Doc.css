@@ -1,0 +1,130 @@
+/* body */
+
+body{
+    box-sizing: border-box;
+}
+/*  header */
+.header-main{
+    background-color: blac;
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content:space-between ;
+    padding: 15px;
+    }
+/* first child */
+.header-main-logo{
+    width: 120px;
+    height: 60px;
+    background-color: yelow;
+    }
+    /* header main image */
+
+.header-main-logo img{
+    width:268px;
+    height: 33px;
+    vertical-align: middle;
+    margin-left:11em;
+    padding-top: 9px;
+    }
+
+/* second child for nav */
+.header-main-nav{
+    width: 400px;
+    height: 60px;
+    background-color: pik;
+    margin-right: 5em;
+    
+}
+ /* nav content */
+ul a{
+    display:inline;
+    text-align: center;
+    padding: 6px;
+    color: #ababab;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400px;
+    text-decoration: none;
+    cursor: pointer;
+    font-family: Work Sans, Arial, sans-serif;
+    }
+/* nav hover */
+    ul a:hover{
+        color: #00b39b;
+    }
+
+
+/* Docplanner logo */
+    .logo{
+        width: 100%;
+        height: 45px;
+        background-color: back;
+        margin-top: 4.5rem;
+    }
+    .docplanner-logo{
+        width: fit-content;
+        height: 40px;
+        background-color: re;
+        margin-left: 50%;
+    }
+    .docplanner-logo img{
+        width:40px ;
+        height: 40px;
+        vertical-align: middle;
+    }
+/* first headline */
+  .first-paragraph{
+    text-align: center;
+    color: #00b39b;
+    font-size: 1.9rem;
+    font-weight: 100px;
+    letter-spacing: 1px;
+    padding-top: 17px;
+    line-height: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* first headline child */
+.container{
+    background-color:re;
+    height: 8em;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    column-gap: 2em;
+    margin-top: 3em;
+}
+
+.container-box-one{
+    background-color: yelow;
+    width: 22em;
+    display: block;
+    font-size: 20px;
+    color: #747474;
+    line-height:1em ;
+}
+
+.container-box-two{
+    background-color: pnk;
+    width: 22em;
+    display:block ;
+    font-size: 20px;
+    color: #747474;
+    line-height:1em ;
+}
+
+
+   
+
+
+
+
+       
+
+    
+
+
+
+
+
+
